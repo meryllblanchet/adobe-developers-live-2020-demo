@@ -1,0 +1,34 @@
+{
+  "project": {
+    "id": "4566206088344567644",
+    "name": "DemoForMagento",
+    "title": "DemoForMagento",
+    "org": {
+      "id": "23294",
+      "name": "Adobe IO DEV",
+      "ims_org_id": "6578A55456E84E247F000101@AdobeOrg"
+    },
+    "workspace": {
+      "id": "4566206088344568302",
+      "name": "TestMagento",
+      "title": "TestMagento",
+      "action_url": "https://23294-demoformagento-testmagento.adobeioruntime.net",
+      "app_url": "https://23294-demoformagento-testmagento.adobeio-static.net",
+      "details": {
+        "credentials": [
+          {
+            "id": "113998",
+            "name": "Project_1601048685504J",
+            "integration_type": "service"
+          }
+        ],
+        "services": [
+          {
+            "code": "McDataServicesSdk",
+            "name": "Experience Platform API"
+          }
+        ]
+      }
+    }
+  }
+}
